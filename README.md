@@ -1,0 +1,2 @@
+# kouluharjoitus
+Git school exercise
